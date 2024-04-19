@@ -49,8 +49,6 @@
 		081A45E91B95605F00565444 /* Video_x5.c in Sources */ = {isa = PBXBuildFile; fileRef = 081A45CB1B95605F00565444 /* Video_x5.c */; };
 		081A45EA1B95605F00565444 /* Video_x6.c in Sources */ = {isa = PBXBuildFile; fileRef = 081A45CD1B95605F00565444 /* Video_x6.c */; };
 		081A45EB1B95605F00565444 /* Video.c in Sources */ = {isa = PBXBuildFile; fileRef = 081A45CF1B95605F00565444 /* Video.c */; };
-		081A45F91B95640C00565444 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 081A45F81B95640C00565444 /* OpenGL.framework */; };
-		081A45FB1B95641300565444 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 081A45FA1B95641300565444 /* Cocoa.framework */; };
 		081A45FD1B95642A00565444 /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 081A45FC1B95642A00565444 /* OpenEmuBase.framework */; };
 		081A46101B9565DB00565444 /* PokeMini_BG2.c in Sources */ = {isa = PBXBuildFile; fileRef = 081A46001B9565DB00565444 /* PokeMini_BG2.c */; };
 		081A46111B9565DB00565444 /* PokeMini_BG3.c in Sources */ = {isa = PBXBuildFile; fileRef = 081A46021B9565DB00565444 /* PokeMini_BG3.c */; };
@@ -167,8 +165,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				081A45FD1B95642A00565444 /* OpenEmuBase.framework in Frameworks */,
-				081A45FB1B95641300565444 /* Cocoa.framework in Frameworks */,
-				081A45F91B95640C00565444 /* OpenGL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
